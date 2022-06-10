@@ -1,6 +1,6 @@
 # Interface Engineer
 
-Do you like making software that is easy to use and that looks great? The main focus of this position is the podhustlr's interface, but work extends to all design at comma (website/product/visual design). Ideally, you can concept, design, and deliver independently.
+Do you like making software that is easy to use and that looks great? The main focus of this position is the podhustlr's interface, but work extends to all design at podhustlr (website/product/visual design). Ideally, you can concept, design, and deliver independently.
 
 ### Qualifications
 

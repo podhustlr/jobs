@@ -4,7 +4,7 @@ As part of the core team, you will be responsible for developing new features an
 
 ### Qualifications
 
-- Fluent in Javascript, HTML, CSS, Python and NoSQL databases
+- Fluent in Javascript, HTML, CSS, Python and GraphQL
 - Ability to indepedently write, test and ship software to thousands of users
 - Built and shipped applications with Vue
 - Preferred: experience with GitHub CI platform and containers
