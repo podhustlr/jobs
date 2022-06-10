@@ -50,7 +50,7 @@ After a programming challenge, we'll do a phone screen and if that goes well, yo
 - Hardware you may need
 - Get paid > industry standard for your role
 - Stock plan
-- Beat Spotify in the creator's space
+- Beat Spotify in the creators ecosystem
 
 
 ## Contacts
