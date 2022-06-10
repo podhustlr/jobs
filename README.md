@@ -48,7 +48,7 @@ After a programming challenge, we'll do a phone screen and if that goes well, yo
 - Flexible time off
 - PTO
 - Hardware you may need
-- Get paid more than the founder ( > industry standard for your role)
+- Get paid > industry standard for your role
 - Stock plan
 - Beat Spotify in the creator's space
 
