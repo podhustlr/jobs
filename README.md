@@ -30,7 +30,7 @@ Honesty is one of Podhustlr's core values. So, let's get something straight. Pod
 
 Podcasting is one of the most subtle forms of media production and consumption. In a world of continuous visual bombardment podcasting is the only information stream that requires putting your brain to work and concentrating to a voice, stimulating your neurons to create visual representations of what you are listening to. It's a non-blocking, non-intrusive and rythmic way of entertaining and informing yourself.
 
-Spotify announced that it wants to focus on the audio creator economy (aka podcasts) and make itself a $100B ARR company. The market is blooming and it's moving fast. If you want to move fast, fail early and iterate over and over, you can find a place here.
+Spotify announced that it wants to focus on the audio creator economy (aka podcasts) and make itself a $100B ARR company. The market is booming and moving fast. If you want to move fast, fail early and iterate over and over, you can find a place here.
 
 
 
