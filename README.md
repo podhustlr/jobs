@@ -26,7 +26,7 @@ It's going to get messy and it's going to get bloody in the early stages. People
 
 ## Why
 
-Honesty and telling the truth is one of Podhustlr's core values. So, let's get something straight. Podhustlr is not a tech company. It's a platform company, meaning we are developing a platform using technology. That said, we are going to make sure that we make the best platform for podcasting there is.
+Honesty is one of Podhustlr's core values. So, let's get something straight. Podhustlr is not a tech company. It's a platform company, meaning we are developing a platform using technology. That said, we are going to make sure that we make the best platform for podcasting there is.
 
 Podcasting is one of the most subtle forms of media production and consumption. In a world of continuous visual bombardment podcasting is the only information stream that requires putting your brain to work and concentrating to a voice, stimulating your neurons to create visual representations of what you are listening to. It's a non-blocking, non-intrusive and rythmic way of entertaining and informing yourself.
 
