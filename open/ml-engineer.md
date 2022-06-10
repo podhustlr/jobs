@@ -9,4 +9,4 @@ As part of the Research Team, you'll be working on our ML toolkits. You'll work 
 - Experience with training models
 - Know things like PyTorch, ground truthing, SEGAN, FSEGAN etc
 
-Email @ work@podhustlr.com
+Email us at work@podhustlr.com

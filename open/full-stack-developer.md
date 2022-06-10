@@ -9,4 +9,4 @@ As part of the core team, you will be responsible for developing new features an
 - Built and shipped applications with Vue
 - Preferred: experience with GitHub CI platform and containers
 
-Email us @ work@podhustlr.com
+Email us at work@podhustlr.com

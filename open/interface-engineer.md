@@ -10,4 +10,4 @@ Do you like making software that is easy to use and that looks great? The main f
 - Strong design sense (UI/UX) and detail oriented
 - Preffered: Can contribute to Vue/Nuxt codebases
 
-Email @ work@podhustlr.com
+Email us at work@podhustlr.com
